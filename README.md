@@ -30,11 +30,11 @@
         <h1>ABA</h1>
         <h4>ជ្រើសរើសការទូទាត់តាមអំពើចិត្ត</h4>
         <!-- Button for ABA Payment Option 1 -->
-        <a href="https://pay.ababank.com/H4K9pPwQgC62Wv1E7" class="payment-button" target="_blank">
+        <a href="https://pay.ababank.com/oRF8/kg004rd0" class="payment-button" target="_blank">
             បាញ់លុយខ្មែរ
         </a>
         <!-- Button for ABA Payment Option 2 -->
-        <a href="https://pay.ababank.com/Rijxi44BaxwdXYqE8" class="payment-button" target="_blank">
+        <a href="https://pay.ababank.com/oRF8/2qty9nuy" class="payment-button" target="_blank">
             បាញ់លុយដុល្លារ 
        </a>
     </div>
